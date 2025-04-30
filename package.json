@@ -1,0 +1,23 @@
+{
+  "name": "design-the-layout",
+  "version": "1.0.0",
+  "description": "this is for designing the layout",
+  "keywords": [
+    "sigma.javascript",
+    "tailwindcss"
+  ],
+  "license": "ISC",
+  "author": "harsha",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  },
+  "dependencies": {
+    "vite": "^6.3.2"
+  }
+}
