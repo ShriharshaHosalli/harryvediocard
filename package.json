@@ -1,23 +1,28 @@
 {
-  "name": "design-the-layout",
-  "version": "1.0.0",
-  "description": "this is for designing the layout",
-  "keywords": [
-    "sigma.javascript",
-    "tailwindcss"
-  ],
-  "license": "ISC",
-  "author": "harsha",
-  "type": "commonjs",
+  "name": "color-name",
+  "version": "1.1.4",
+  "description": "A list of color names and its values",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "vite"
+    "test": "node test.js"
   },
-  "devDependencies": {
-    "tailwindcss": "^3.4.17"
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:colorjs/color-name.git"
   },
-  "dependencies": {
-    "vite": "^6.3.2"
-  }
+  "keywords": [
+    "color-name",
+    "color",
+    "color-keyword",
+    "keyword"
+  ],
+  "author": "DY <dfcreative@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colorjs/color-name/issues"
+  },
+  "homepage": "https://github.com/colorjs/color-name"
 }
